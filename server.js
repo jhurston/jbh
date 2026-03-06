@@ -14,7 +14,7 @@ if (fs.existsSync(envPath)) {
     });
 }
 
-const PORT = 3001;
+const PORT = process.env.PORT || 3001;
 const ANTHROPIC_API_KEY = process.env.ANTHROPIC_API_KEY;
 
 if (!ANTHROPIC_API_KEY) {
