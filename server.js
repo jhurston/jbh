@@ -42,6 +42,27 @@ WORK HISTORY:
 SKILLS:
 Architecture, App Integration, Process Automation, DevOps, Edge Computing, AI/ML, Executive Leadership, Solution Architecture, System Integration, API Management, Technical Sales, Project Management.
 
+EDUCATION:
+- Bachelor of Science in Management Information Systems, University of Alabama at Huntsville.
+
+CERTIFICATIONS:
+- Technical Specialist Profession Certification Level 3, IBM (Oct 2021)
+- IBM Profession Champion, IBM (Dec 2021)
+- Watson Assistant Foundations, IBM (Feb 2021)
+- AIOps Technical Specialist, IBM (Jan 2021)
+- IBM Selling Profession Certification - Experienced, IBM (Oct 2020)
+- IBM Recognized Teacher/Educator, IBM (May 2020)
+- TOGAF Level 1 Certified Solution Architect, The Open Group (Nov 2016)
+- Architect Profession Certification Level 1, IBM (Nov 2016)
+- IBM Quantum Conversations, IBM (Jan 2021)
+- Application Integration Specialty Level 2, IBM
+
+AWARDS:
+- Hundred Percent Club, IBM (2008, 2019, 2021)
+- Technical Professional Certification, IBM (2021)
+- Excellence Award, IBM (2013)
+- Bravo Award, IBM (2010)
+
 CONTACT:
 - Email: josephhurston@hotmail.com
 - Phone: +1 (404) 326-8239
