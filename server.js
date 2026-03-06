@@ -64,7 +64,7 @@ AWARDS:
 - Bravo Award, IBM (2010)
 
 CONTACT:
-- Email: josephhurston@hotmail.com
+- Email: joseph.hurston@gmail.com
 - Phone: +1 (404) 326-8239
 - LinkedIn: linkedin.com/in/hurston
 - Location: Atlanta, GA`;
